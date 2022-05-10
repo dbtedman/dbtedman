@@ -24,7 +24,7 @@ A PostCSS plugin that is used to wrap css styles with a css selector to constrai
 
 <small>2021 Sep to Now</small>
 
--   [APNIC APRICOT 2022 Conference](https://2022.apricot.net)
+-   [APNIC APRICOT 2022 Conference](https://github.com/dbtedman/dbtedman/wiki/APNIC-APRICOT-2022-Conference)
 -   [APNIC Product Roadmap](https://danieltedman.com/my-work/apnic-product-roadmap/)
 -   [APNIC Web Team](https://danieltedman.com/my-work/apnic-web-team/)
 
