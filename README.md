@@ -4,13 +4,9 @@
 
 As a Security Focused Software Engineer, I am committed to participating in the development of a secure and accessible web.
 
--   [My Work](#my-work)
 -   [Open Source](#open-source)
+-   [Work History](#work-history)
 -   [Code Kata](#code-kata)
-
-## My Work
-
-In my time working as a professional software engineer, I have had the opportunity to work on [a wide range of different websites and applications](https://danieltedman.com/my-work/).
 
 ## Open Source
 
@@ -21,6 +17,54 @@ In my time working as a professional software engineer, I have had the opportuni
 [![NPM Downloads Per Week](https://img.shields.io/npm/dw/postcss-prefixwrap?color=blue&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/postcss-prefixwrap)
 
 A PostCSS plugin that is used to wrap css styles with a css selector to constrain their affect on parent elements in a page
+
+## Work History
+
+### Delivery Manager at APNIC
+
+<small>2021 Sep to Now</small>
+
+-   [APNIC APRICOT 2022 Conference](https://2022.apricot.net)
+-   [APNIC Product Roadmap](https://danieltedman.com/my-work/apnic-product-roadmap/)
+-   [APNIC Web Team](https://danieltedman.com/my-work/apnic-web-team/)
+
+### Senior Full Stack Web Developer at APNIC
+
+<small>2019 Nov to 2021 Sep</small>
+
+-   [APNIC 50 Conference](https://danieltedman.com/my-work/apnic-conference/)
+-   [APNIC Full Stack Faction](https://danieltedman.com/my-work/apnic-full-stack-faction/)
+-   [APNIC Help Centre](https://danieltedman.com/my-work/apnic-help-centre/)
+-   [APNIC Membership External API](https://danieltedman.com/my-work/apnic-membership-external-api/)
+-   [APNIC MyAPNIC Dashboard v2](https://danieltedman.com/my-work/apnic-myapnic-dashboard-v2/)
+-   [APNIC MyAPNIC Voting Dashboard](https://danieltedman.com/my-work/apnic-myapnic-voting-dashboard/)
+-   [APNIC WebOPS External API](https://danieltedman.com/my-work/apnic-webops-external-api/)
+
+### Full Stack Web Developer at APNIC
+
+<small>2018 June to 2019 Nov</small>
+
+-   [APNIC Academy](https://danieltedman.com/my-work/apnic-academy/)
+-   [APNIC Membership Application](https://danieltedman.com/my-work/apnic-membership-application/)
+-   [APNIC MyAPNIC Dashboard](https://danieltedman.com/my-work/apnic-myapnic-dashboard/)
+-   [APNIC MyAPNIC Resource Manager](https://danieltedman.com/my-work/apnic-myapnic-resource-manager/)
+-   [APNIC MyAPNIC Voting](https://danieltedman.com/my-work/apnic-myapnic-voting/)
+
+### Software Developer at Griffith University
+
+<small>2014 Feb to 2018 June</small>
+
+-   [Griffith Develop](https://danieltedman.com/my-work/griffith-develop/)
+-   [Griffith ExLNT](https://danieltedman.com/my-work/griffith-exlnt/)
+-   [Griffith Experts](https://danieltedman.com/my-work/griffith-experts/)
+-   [Griffith Learn](https://danieltedman.com/my-work/griffith-learn/)
+
+### Web Developer at Griffith University
+
+<small>2011 Nov to 2014 Feb</small>
+
+-   [Griffith MBA App](https://danieltedman.com/my-work/griffith-mba-app/)
+-   [Griffith Virtual Tour](https://danieltedman.com/my-work/griffith-virtual-tour/)
 
 ## Code Kata
 
