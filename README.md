@@ -59,10 +59,8 @@ Secure traffic flowing in and out of your WordPress site at its extremity.
 ### [Hoist](https://github.com/dbtedman/kata-hoist)
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dbtedman/kata-hoist/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-hoist/actions/workflows/cy.yml)
-![language: java](https://img.shields.io/badge/language-java-blue.svg?style=for-the-badge&logo=java)
-![language: typescript](https://img.shields.io/badge/language-typescript-blue.svg?style=for-the-badge&logo=typescript)
-![framework: react](https://img.shields.io/badge/framework-react-blue.svg?style=for-the-badge&logo=react)
-![framework: spring](https://img.shields.io/badge/framework-spring-blue.svg?style=for-the-badge&logo=spring)
+![languages: java and typescript](https://img.shields.io/badge/languages-java%20and%20typescript-blue.svg?style=for-the-badge&logo=java)
+![frameworks: spring and react](https://img.shields.io/badge/frameworks-spring%20and%20react-blue.svg?style=for-the-badge&logo=react)
 
 Lift simulation.
 
