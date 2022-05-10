@@ -36,8 +36,7 @@ Manage internal technical documentation that is enriched with live data accreted
 ### [Campus](https://github.com/dbtedman/kata-campus)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-campus/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-campus/actions/workflows/ci.yml)
-![language: go](https://img.shields.io/badge/language-go-blue.svg?style=for-the-badge&logo=go)
-(planned)
+![language: go](<https://img.shields.io/badge/language-go%20(planned)-lightgray.svg?style=for-the-badge&logo=go>)
 
 Campus headquarters for your personal learning platform.
 
@@ -78,9 +77,8 @@ Tool for marshalling data between systems.
 ### [Respite](https://github.com/dbtedman/kata-respite)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-respite/actions/workflows/ci.yml)
-![language: typescript](https://img.shields.io/badge/language-typescript-blue.svg?style=for-the-badge&logo=typescript)
-![platform: aws amplify](https://img.shields.io/badge/platform-aws%20amplify-blue.svg?style=for-the-badge&logo=amazon-aws)
-(planned)
+![language: typescript](<https://img.shields.io/badge/language-typescript%20(planned)-lightgray.svg?style=for-the-badge&logo=typescript>)
+![platform: aws amplify](<https://img.shields.io/badge/platform-aws%20amplify%20(planned)-lightgray.svg?style=for-the-badge&logo=amazon-aws>)
 
 Providing respite by matching desired capacity to available talent.
 
