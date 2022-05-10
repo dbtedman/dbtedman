@@ -24,6 +24,8 @@ A PostCSS plugin that is used to wrap css styles with a css selector to constrai
 
 ## Code Kata
 
+Programming exercises to hone my programming skills through practice and repetition.
+
 ### [Accretion](https://github.com/dbtedman/kata-accretion)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-accretion/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-accretion/actions/workflows/ci.yml)
