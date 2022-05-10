@@ -102,3 +102,5 @@ Tool for developers to scrutinise web application information architectures.
 
 [![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-spectacle/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-spectacle/actions/workflows/ci.yml)
 ![language: go](https://img.shields.io/badge/language-go-blue.svg?style=for-the-badge&logo=go)
+
+Discover projects within a hosted git platform that contain an OpenAPI Specifications so that an index can be generated.
