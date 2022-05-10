@@ -4,13 +4,9 @@
 
 As a Security Focused Software Engineer, I am committed to participating in the development of a secure and accessible web.
 
--   [My Work](#my-work)
 -   [Open Source](#open-source)
+-   [Work History](#work-history)
 -   [Code Kata](#code-kata)
-
-## My Work
-
-In my time working as a professional software engineer, I have had the opportunity to work on [a wide range of different websites and applications](https://danieltedman.com/my-work/).
 
 ## Open Source
 
@@ -21,6 +17,44 @@ In my time working as a professional software engineer, I have had the opportuni
 [![NPM Downloads Per Week](https://img.shields.io/npm/dw/postcss-prefixwrap?color=blue&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/postcss-prefixwrap)
 
 A PostCSS plugin that is used to wrap css styles with a css selector to constrain their affect on parent elements in a page
+
+## Work History
+
+### Delivery Manager at APNIC
+
+2021 Sep to Now
+
+> 🚧 Placeholder
+
+### Senior Full Stack Web Developer at APNIC
+
+2019 Nov to 2021 Sep
+
+> 🚧 Placeholder
+
+### Technical Lead / Full Stack Developer at APNIC
+
+2019 Aug to 2019 Nov
+
+> 🚧 Placeholder
+
+### Full Stack Web Developer at APNIC
+
+2018 June to 2019 Aug
+
+> 🚧 Placeholder
+
+### Software Developer at Griffith University
+
+2014 Feb to 2018 June
+
+> 🚧 Placeholder
+
+### Web Developer at Griffith University
+
+2011 Nov to 2014 Feb
+
+> 🚧 Placeholder
 
 ## Code Kata
 
