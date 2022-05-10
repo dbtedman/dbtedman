@@ -22,39 +22,49 @@ A PostCSS plugin that is used to wrap css styles with a css selector to constrai
 
 ### Delivery Manager at APNIC
 
-2021 Sep to Now
+<small>2021 Sep to Now</small>
 
-> 🚧 Placeholder
+-   APNIC APRICOT 2022 Conference
+-   [APNIC Product Roadmap](https://danieltedman.com/my-work/apnic-product-roadmap/)
+-   [APNIC Web Team](https://danieltedman.com/my-work/apnic-web-team/)
 
 ### Senior Full Stack Web Developer at APNIC
 
-2019 Nov to 2021 Sep
+<small>2019 Nov to 2021 Sep</small>
 
-> 🚧 Placeholder
-
-### Technical Lead / Full Stack Developer at APNIC
-
-2019 Aug to 2019 Nov
-
-> 🚧 Placeholder
+-   [APNIC 50 Conference](https://danieltedman.com/my-work/apnic-conference/)
+-   [APNIC Full Stack Faction](https://danieltedman.com/my-work/apnic-full-stack-faction/)
+-   [APNIC Help Centre](https://danieltedman.com/my-work/apnic-help-centre/)
+-   [APNIC Membership External API](https://danieltedman.com/my-work/apnic-membership-external-api/)
+-   [APNIC MyAPNIC Dashboard v2](https://danieltedman.com/my-work/apnic-myapnic-dashboard-v2/)
+-   [APNIC MyAPNIC Voting Dashboard](https://danieltedman.com/my-work/apnic-myapnic-voting-dashboard/)
+-   [APNIC WebOPS External API](https://danieltedman.com/my-work/apnic-webops-external-api/)
 
 ### Full Stack Web Developer at APNIC
 
-2018 June to 2019 Aug
+<small>2018 June to 2019 Nov</small>
 
-> 🚧 Placeholder
+-   [APNIC Academy](https://danieltedman.com/my-work/apnic-academy/)
+-   [APNIC Membership Application](https://danieltedman.com/my-work/apnic-membership-application/)
+-   [APNIC MyAPNIC Dashboard](https://danieltedman.com/my-work/apnic-myapnic-dashboard/)
+-   [APNIC MyAPNIC Resource Manager](https://danieltedman.com/my-work/apnic-myapnic-resource-manager/)
+-   [APNIC MyAPNIC Voting](https://danieltedman.com/my-work/apnic-myapnic-voting/)
 
 ### Software Developer at Griffith University
 
-2014 Feb to 2018 June
+<small>2014 Feb to 2018 June</small>
 
-> 🚧 Placeholder
+-   [Griffith Develop](https://danieltedman.com/my-work/griffith-develop/)
+-   [Griffith ExLNT](https://danieltedman.com/my-work/griffith-exlnt/)
+-   [Griffith Experts](https://danieltedman.com/my-work/griffith-experts/)
+-   [Griffith Learn](https://danieltedman.com/my-work/griffith-learn/)
 
 ### Web Developer at Griffith University
 
-2011 Nov to 2014 Feb
+<small>2011 Nov to 2014 Feb</small>
 
-> 🚧 Placeholder
+-   [Griffith MBA App](https://danieltedman.com/my-work/griffith-mba-app/)
+-   [Griffith Virtual Tour](https://danieltedman.com/my-work/griffith-virtual-tour/)
 
 ## Code Kata
 
