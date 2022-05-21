@@ -52,12 +52,17 @@ A PostCSS plugin that is used to wrap css styles with a css selector to constrai
 
 ### Software Developer at Griffith University
 
-<small>2014 Feb to 2018 June</small>
+<small>2016 June to 2018 May</small>
 
 -   [Griffith Develop](https://danieltedman.com/my-work/griffith-develop/)
 -   [Griffith ExLNT](https://danieltedman.com/my-work/griffith-exlnt/)
--   [Griffith Experts](https://danieltedman.com/my-work/griffith-experts/)
 -   [Griffith Learn](https://danieltedman.com/my-work/griffith-learn/)
+
+### Software Developer at Griffith University
+
+<small>2014 March to 2016 May</small>
+
+-   [Griffith Experts](https://danieltedman.com/my-work/griffith-experts/)
 
 ### Web Developer at Griffith University
 
