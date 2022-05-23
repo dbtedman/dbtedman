@@ -104,6 +104,7 @@ Platform for hosting reoccurring conference sites.
 ### [Extremity](https://github.com/dbtedman/kata-extremity)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-extremity/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-extremity/actions/workflows/ci.yml)
+[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-extremity/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-extremity/actions/workflows/sast.yml)
 ![language: php](https://img.shields.io/badge/language-php-blue.svg?style=for-the-badge)
 ![platform: wordpress plugin](https://img.shields.io/badge/platform-wordpress%20plugin-blue.svg?style=for-the-badge)
 
