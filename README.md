@@ -141,6 +141,7 @@ A solving program that suggests words using your current letters and the layout 
 ### [Scrutinise](https://github.com/dbtedman/kata-scrutinise)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrutinize/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-scrutinize/actions/workflows/ci.yml)
+[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrutinize/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-scrutinize/actions/workflows/sast.yml)
 ![language: go](https://img.shields.io/badge/language-go-blue.svg?style=for-the-badge)
 
 Tool for developers to scrutinise web application information architectures.
