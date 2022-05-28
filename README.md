@@ -86,9 +86,9 @@ Manage internal technical documentation that is enriched with live data accreted
 
 ### [Campus](https://github.com/dbtedman/kata-campus)
 
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-campus/ci?style=for-the-badge&label=ci)](https://github.com/dbtedman/kata-campus/actions/workflows/ci.yml)
-![language: ruby](https://img.shields.io/badge/language-ruby%20%28planned%29-lightgray.svg?style=for-the-badge)
-![framework: rails](https://img.shields.io/badge/framework-rails%20%28planned%29-lightgray.svg?style=for-the-badge)
+[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-campus/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-campus/actions/workflows/ci.yml)
+![languages: kotlin and typescript](https://img.shields.io/badge/languages-kotlin%20and%20typescript%20%28planned%29-lightgray.svg?style=for-the-badge)
+![frameworks: spring and react](https://img.shields.io/badge/frameworks-spring%20and%20vue%20%28planned%29-lightgray.svg?style=for-the-badge)
 
 Campus headquarters for your personal learning platform.
 
