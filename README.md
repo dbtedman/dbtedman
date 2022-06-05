@@ -11,7 +11,7 @@ As a Security Focused Software Engineer, I am committed to participating in the 
 
 ## Open Source
 
-### [PostCSS Prefix Wrap](https://danieltedman.com/open-source/postcss-prefixwrap/)
+### [PostCSS Prefix Wrap](https://github.com/dbtedman/postcss-prefixwrap)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/postcss-prefixwrap/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/ci.yml?query=branch%3Amain)
 [![SAST GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/postcss-prefixwrap/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/sast.yml)
