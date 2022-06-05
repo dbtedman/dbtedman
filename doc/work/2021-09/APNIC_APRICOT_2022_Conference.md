@@ -10,15 +10,15 @@ Delivery of a conference platform and associated services to support the APRICOT
 
 ## Business Need
 
-Placeholder
+APNIC hosts two conferences a year, and to support these conferences, the Web Team is responsible for maintaining a website for each conference along with the platform needed to support these websites.
 
 ## Our Solution
 
-Placeholder
+A statically generated website that accesses data provided by an administration system used to manage the conference schedule. An API was built to support integrations with Salesforce, Zoom, and Cometchat.
 
 ## My Contribution
 
-Placeholder
+As the Delivery Manager for the Web Team, my role is to support my team in delivering a successful conference.
 
 ## Technologies
 
