@@ -46,32 +46,32 @@ A PostCSS plugin that is used to wrap css styles with a css selector to constrai
 
 <small>2018 June to 2019 Nov</small>
 
--   [APNIC Academy](https://danieltedman.com/my-work/apnic-academy/)
--   [APNIC Membership Application](https://danieltedman.com/my-work/apnic-membership-application/)
--   [APNIC MyAPNIC Dashboard](https://danieltedman.com/my-work/apnic-myapnic-dashboard/)
--   [APNIC MyAPNIC Resource Manager](https://danieltedman.com/my-work/apnic-myapnic-resource-manager/)
--   [APNIC MyAPNIC Voting](https://danieltedman.com/my-work/apnic-myapnic-voting/)
+-   [APNIC Academy](./doc/work/2018-06/APNIC_Academy.md)
+-   [APNIC Membership Application](./doc/work/2018-06/APNIC_Membership_Application.md)
+-   [APNIC MyAPNIC Dashboard](./doc/work/2018-06/APNIC_MyAPNIC_Dashboard.md)
+-   [APNIC MyAPNIC Resource Manager](./doc/work/2018-06/APNIC_MyAPNIC_Resource_Manager.md)
+-   [APNIC MyAPNIC Voting](./doc/work/2018-06/APNIC_MyAPNIC_Voting.md)
 
 ### Software Developer at Griffith University
 
 <small>2016 June to 2018 May</small>
 
--   [Griffith Develop](https://danieltedman.com/my-work/griffith-develop/)
--   [Griffith ExLNT](https://danieltedman.com/my-work/griffith-exlnt/)
--   [Griffith Learn](https://danieltedman.com/my-work/griffith-learn/)
+-   [Griffith Develop](./doc/work/2016-06/Griffith_Develop.md)
+-   [Griffith ExLNT](./doc/work/2016-06/Griffith_ExLNT.md)
+-   [Griffith Learn](./doc/work/2016-06/Griffith_Learn.md)
 
 ### Software Developer at Griffith University
 
 <small>2014 March to 2016 May</small>
 
--   [Griffith Experts](https://danieltedman.com/my-work/griffith-experts/)
+-   [Griffith Experts](./doc/work/2014-03/Griffith_Experts.md)
 
 ### Web Developer at Griffith University
 
 <small>2011 Nov to 2014 Feb</small>
 
--   [Griffith MBA App](https://danieltedman.com/my-work/griffith-mba-app/)
--   [Griffith Virtual Tour](https://danieltedman.com/my-work/griffith-virtual-tour/)
+-   [Griffith MBA App](./doc/work/2011-11/Griffith_MBA_App.md)
+-   [Griffith Virtual Tour](./doc/work/2011-11/Griffith_Virtual_Tour.md)
 
 ## Code Kata
 
