@@ -34,6 +34,10 @@ Programming exercises to hone my programming skills through practice and repetit
 
 Manage internal technical documentation that is enriched with live data accreted from your environment.
 
+### Amalgam (soon)
+
+Platform for defining recipes to repeatable operations.
+
 ### [Campus](https://github.com/dbtedman/kata-campus)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-campus/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-campus/actions/workflows/ci.yml)
