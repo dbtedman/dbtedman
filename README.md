@@ -26,21 +26,21 @@ A PostCSS plugin that is used to wrap css styles with a css selector to constrai
 
 <small>2021 Sep to Now</small>
 
--   [APNIC APRICOT 2022 Conference](https://github.com/dbtedman/dbtedman/wiki/APNIC-APRICOT-2022-Conference)
--   [APNIC Product Roadmap](https://danieltedman.com/my-work/apnic-product-roadmap/)
--   [APNIC Web Team](https://danieltedman.com/my-work/apnic-web-team/)
+-   [APNIC APRICOT 2022 Conference](./doc/work/2021-09/APNIC_APRICOT_2022_Conference.md)
+-   [APNIC Product Roadmap](./doc/work/2021-09/APNIC_Product_Roadmap.md)
+-   [APNIC Web Team](./doc/work/2021-09/APNIC_Web_Team.md)
 
 ### Senior Full Stack Web Developer at APNIC
 
 <small>2019 Nov to 2021 Sep</small>
 
--   [APNIC 50 Conference](https://danieltedman.com/my-work/apnic-conference/)
--   [APNIC Full Stack Faction](https://danieltedman.com/my-work/apnic-full-stack-faction/)
--   [APNIC Help Centre](https://danieltedman.com/my-work/apnic-help-centre/)
--   [APNIC Membership External API](https://danieltedman.com/my-work/apnic-membership-external-api/)
--   [APNIC MyAPNIC Dashboard v2](https://danieltedman.com/my-work/apnic-myapnic-dashboard-v2/)
--   [APNIC MyAPNIC Voting Dashboard](https://danieltedman.com/my-work/apnic-myapnic-voting-dashboard/)
--   [APNIC WebOPS External API](https://danieltedman.com/my-work/apnic-webops-external-api/)
+-   [APNIC 50 Conference](./doc/work/2019-11/APNIC_50_Conference.md)
+-   [APNIC Full Stack Faction](./doc/work/2019-11/APNIC_Full_Stack_Faction.md)
+-   [APNIC Help Centre](./doc/work/2019-11/APNIC_Help_Centre.md)
+-   [APNIC Membership External API](./doc/work/2019-11/APNIC_Membership_External_API.md)
+-   [APNIC MyAPNIC Dashboard v2](./doc/work/2019-11/APNIC_MyAPNIC_Dashboard_v2.md)
+-   [APNIC MyAPNIC Voting Dashboard](./doc/work/2019-11/APNIC_MyAPNIC_Voting_Dashboard.md)
+-   [APNIC WebOPS External API](./doc/work/2019-11/APNIC_WebOPS_External_API.md)
 
 ### Full Stack Web Developer at APNIC
 
