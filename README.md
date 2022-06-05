@@ -88,6 +88,7 @@ Manage internal technical documentation that is enriched with live data accreted
 ### [Campus](https://github.com/dbtedman/kata-campus)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-campus/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-campus/actions/workflows/ci.yml)
+[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-campus/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-campus/actions/workflows/sast.yml)
 ![languages: kotlin and typescript](https://img.shields.io/badge/languages-kotlin%20and%20typescript%20%28planned%29-lightgray.svg?style=for-the-badge)
 ![frameworks: spring and react](https://img.shields.io/badge/frameworks-spring%20and%20vue%20%28planned%29-lightgray.svg?style=for-the-badge)
 
@@ -132,6 +133,7 @@ Tool for marshalling data between systems.
 ### [Respite](https://github.com/dbtedman/kata-respite)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-respite/actions/workflows/ci.yml)
+[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-respite/actions/workflows/sast.yml)
 ![language: python](https://img.shields.io/badge/language-python%20%28planned%29-lightgray.svg?style=for-the-badge)
 
 Providing respite by matching desired capacity to available talent.
