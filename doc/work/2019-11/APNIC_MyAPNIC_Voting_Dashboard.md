@@ -8,5 +8,4 @@ A significant upgrade to the voting platform to support multiple elections from 
 
 ## Technologies
 
--   TypeScript
--   VueJS
+TypeScript, VueJS

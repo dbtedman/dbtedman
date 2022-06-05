@@ -14,16 +14,16 @@ While this rebuild occurs,the system will maintain operational with near zero do
 
 ## Technologies
 
--   Docker
--   Helm
--   Jest
--   Kubernetes
--   MySQL
--   Node
--   NPM
--   PHP
--   Redis
--   Scss
--   TypeScript
--   VueJS
--   WordPress
+Docker,
+Helm,
+Jest,
+Kubernetes,
+MySQL,
+Node,
+NPM,
+PHP,
+Redis,
+Scss,
+TypeScript,
+VueJS,
+WordPress

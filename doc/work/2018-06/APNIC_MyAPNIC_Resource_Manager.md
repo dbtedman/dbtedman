@@ -20,12 +20,11 @@ As a Full Stack Web Developer, I have participated in the maintenance of this pr
 
 ## Technologies
 
--   APNIC
--   CentOS
--   Docker
--   Java
--   JavaScript
--   Kubernetes
--   MySQL
--   OpenId Connect
--   Perl
+CentOS,
+Docker,
+Java,
+JavaScript,
+Kubernetes,
+MySQL,
+OpenId Connect,
+Perl

@@ -27,18 +27,17 @@ As the primary developer on this project, I have contributed to all aspects of t
 
 ## Technologies
 
--   APNIC
--   Docker
--   Gulp
--   Helm
--   JavaScript
--   Kubernetes
--   Labs on Demand
--   MariaDB
--   Node
--   NPM
--   PHP
--   Redis
--   Scss
--   WordPress
--   Zoom
+Docker,
+Gulp,
+Helm,
+JavaScript,
+Kubernetes,
+Labs on Demand,
+MariaDB,
+Node,
+NPM,
+PHP,
+Redis,
+Scss,
+WordPress,
+Zoom

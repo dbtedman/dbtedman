@@ -22,13 +22,13 @@ As a web application developer, my focus was on the back-end of the application 
 
 ## Technologies
 
--   Git,
-    GitLab,
-    JavaScript,
-    jQuery,
-    Oracle DB,
-    PHP,
-    RHEL,
-    Scss,
-    Subversion,
-    Symfony,
+Git,
+GitLab,
+JavaScript,
+jQuery,
+Oracle DB,
+PHP,
+RHEL,
+Scss,
+Subversion,
+Symfony,

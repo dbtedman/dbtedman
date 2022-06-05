@@ -26,27 +26,27 @@ As a full stack web developer, my contribution was primarily focused on implemen
 
 ## Technologies
 
--   Babel
--   Bash
--   Docker
--   EditorConfig
--   ESLint
--   Git
--   GitLab
--   GitLab CI
--   Helm
--   Java
--   JavaScript
--   Jest
--   JSON
--   JUnit
--   Kubernetes
--   Maven
--   Node
--   NPM
--   Prettier
--   Scss
--   Spring
--   VueCLI
--   VueJS
--   WebPack
+Babel,
+Bash,
+Docker,
+EditorConfig,
+ESLint,
+Git,
+GitLab,
+GitLab CI,
+Helm,
+Java,
+JavaScript,
+Jest,
+JSON,
+JUnit,
+Kubernetes,
+Maven,
+Node,
+NPM,
+Prettier,
+Scss,
+Spring,
+VueCLI,
+VueJS,
+WebPack

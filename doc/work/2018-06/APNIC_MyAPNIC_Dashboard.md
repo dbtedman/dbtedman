@@ -22,16 +22,15 @@ As the primary developer of this product, I contributed to all aspects of develo
 
 ## Technologies
 
--   APNIC
--   Docker
--   Gulp
--   Helm
--   JavaScript
--   Kubernetes
--   MariaDB
--   Node
--   NPM
--   PHP
--   Redis
--   Scss
--   WordPress
+Docker,
+Gulp,
+Helm,
+JavaScript,
+Kubernetes,
+MariaDB,
+Node,
+NPM,
+PHP,
+Redis,
+Scss,
+WordPress

@@ -8,10 +8,4 @@ As a Senior Full Stack Web Developer, I have contributed to all aspects of the A
 
 ## Technologies
 
--   Docker
--   Java
--   JUnit
--   Kubernetes
--   Maven
--   OpenID Connect
--   Spring
+Docker, Java, JUnit, Kubernetes, Maven, OpenId Connect, Spring

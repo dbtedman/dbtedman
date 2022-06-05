@@ -12,6 +12,4 @@ As a full stack web developer, my contribution was primarily focused on assistin
 
 ## Technologies
 
--   Salesforce Apex
--   Salesforce Aura Components
--   Salesforce Knowledge
+Salesforce Apex, Salesforce Aura Components, Salesforce Knowledge

@@ -29,26 +29,25 @@ casting platform and MyAPNIC Resource Manager for determining for account status
 
 ## Technologies
 
--   API Integration
--   APNIC
--   Docker
--   Docker Compose
--   EditorConfig
--   Git
--   GitLab
--   GitLab Pipelines
--   Google Analytics
--   Gulp
--   Helm
--   JavaScript
--   Kubernetes
--   MariaDB
--   Markdown
--   Node
--   NPM
--   PHP
--   Prettier
--   Redis
--   Sentry
--   Scss
--   WordPress
+API Integration,
+Docker,
+Docker Compose,
+EditorConfig,
+Git,
+GitLab,
+GitLab Pipelines,
+Google Analytics,
+Gulp,
+Helm,
+JavaScript,
+Kubernetes,
+MariaDB,
+Markdown,
+Node,
+NPM,
+PHP,
+Prettier,
+Redis,
+Sentry,
+Scss,
+WordPress
