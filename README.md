@@ -6,8 +6,8 @@
 As a Security Focused Software Engineer, I am committed to participating in the development of a secure and accessible web.
 
 -   [Open Source](#open-source)
--   [Work History](#work-history)
 -   [Code Kata](#code-kata)
+-   [Work History](#work-history)
 
 ## Open Source
 
@@ -19,59 +19,6 @@ As a Security Focused Software Engineer, I am committed to participating in the 
 [![NPM Downloads Per Week](https://img.shields.io/npm/dw/postcss-prefixwrap?color=blue&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/postcss-prefixwrap)
 
 A PostCSS plugin that is used to wrap css styles with a css selector to constrain their affect on parent elements in a page
-
-## Work History
-
-### Delivery Manager at APNIC
-
-<small>2021 Sep to Now</small>
-
--   [APNIC APRICOT 2022 Conference](./doc/work/2021-09/APNIC_APRICOT_2022_Conference.md)
--   [APNIC Product Roadmap](./doc/work/2021-09/APNIC_Product_Roadmap.md)
--   [APNIC Web Team](./doc/work/2021-09/APNIC_Web_Team.md)
-
-### Senior Full Stack Web Developer at APNIC
-
-<small>2019 Nov to 2021 Sep</small>
-
--   [APNIC 50 Conference](./doc/work/2019-11/APNIC_50_Conference.md)
--   [APNIC Full Stack Faction](./doc/work/2019-11/APNIC_Full_Stack_Faction.md)
--   [APNIC Help Centre](./doc/work/2019-11/APNIC_Help_Centre.md)
--   [APNIC Membership External API](./doc/work/2019-11/APNIC_Membership_External_API.md)
--   [APNIC MyAPNIC Dashboard v2](./doc/work/2019-11/APNIC_MyAPNIC_Dashboard_v2.md)
--   [APNIC MyAPNIC Voting Dashboard](./doc/work/2019-11/APNIC_MyAPNIC_Voting_Dashboard.md)
--   [APNIC WebOPS External API](./doc/work/2019-11/APNIC_WebOPS_External_API.md)
-
-### Full Stack Web Developer at APNIC
-
-<small>2018 June to 2019 Nov</small>
-
--   [APNIC Academy](./doc/work/2018-06/APNIC_Academy.md)
--   [APNIC Membership Application](./doc/work/2018-06/APNIC_Membership_Application.md)
--   [APNIC MyAPNIC Dashboard](./doc/work/2018-06/APNIC_MyAPNIC_Dashboard.md)
--   [APNIC MyAPNIC Resource Manager](./doc/work/2018-06/APNIC_MyAPNIC_Resource_Manager.md)
--   [APNIC MyAPNIC Voting](./doc/work/2018-06/APNIC_MyAPNIC_Voting.md)
-
-### Software Developer at Griffith University
-
-<small>2016 June to 2018 May</small>
-
--   [Griffith Develop](./doc/work/2016-06/Griffith_Develop.md)
--   [Griffith ExLNT](./doc/work/2016-06/Griffith_ExLNT.md)
--   [Griffith Learn](./doc/work/2016-06/Griffith_Learn.md)
-
-### Software Developer at Griffith University
-
-<small>2014 March to 2016 May</small>
-
--   [Griffith Experts](./doc/work/2014-03/Griffith_Experts.md)
-
-### Web Developer at Griffith University
-
-<small>2011 Nov to 2014 Feb</small>
-
--   [Griffith MBA App](./doc/work/2011-11/Griffith_MBA_App.md)
--   [Griffith Virtual Tour](./doc/work/2011-11/Griffith_Virtual_Tour.md)
 
 ## Code Kata
 
@@ -134,7 +81,7 @@ Tool for marshalling data between systems.
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-respite/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-respite/actions/workflows/sast.yml)
-![language: python](https://img.shields.io/badge/language-python%20%28planned%29-lightgray.svg?style=for-the-badge)
+![languages: rust and typescript](https://img.shields.io/badge/languages-rust%20and%20typescript%20%28planned%29-lightgray.svg?style=for-the-badge)
 
 Providing respite by matching desired capacity to available talent.
 
@@ -161,3 +108,56 @@ Tool for developers to scrutinise web application information architectures.
 ![language: go](https://img.shields.io/badge/language-go-blue.svg?style=for-the-badge)
 
 Discover projects within a hosted git platform that contain an OpenAPI Specifications so that an index can be generated.
+
+## Work History
+
+### Delivery Manager at APNIC
+
+<small>2021 Sep to Now</small>
+
+-   [APNIC APRICOT 2022 Conference](./doc/work/2021-09/APNIC_APRICOT_2022_Conference.md)
+-   [APNIC Product Roadmap](./doc/work/2021-09/APNIC_Product_Roadmap.md)
+-   [APNIC Web Team](./doc/work/2021-09/APNIC_Web_Team.md)
+
+### Senior Full Stack Web Developer at APNIC
+
+<small>2019 Nov to 2021 Sep</small>
+
+-   [APNIC 50 Conference](./doc/work/2019-11/APNIC_50_Conference.md)
+-   [APNIC Full Stack Faction](./doc/work/2019-11/APNIC_Full_Stack_Faction.md)
+-   [APNIC Help Centre](./doc/work/2019-11/APNIC_Help_Centre.md)
+-   [APNIC Membership External API](./doc/work/2019-11/APNIC_Membership_External_API.md)
+-   [APNIC MyAPNIC Dashboard v2](./doc/work/2019-11/APNIC_MyAPNIC_Dashboard_v2.md)
+-   [APNIC MyAPNIC Voting Dashboard](./doc/work/2019-11/APNIC_MyAPNIC_Voting_Dashboard.md)
+-   [APNIC WebOPS External API](./doc/work/2019-11/APNIC_WebOPS_External_API.md)
+
+### Full Stack Web Developer at APNIC
+
+<small>2018 June to 2019 Nov</small>
+
+-   [APNIC Academy](./doc/work/2018-06/APNIC_Academy.md)
+-   [APNIC Membership Application](./doc/work/2018-06/APNIC_Membership_Application.md)
+-   [APNIC MyAPNIC Dashboard](./doc/work/2018-06/APNIC_MyAPNIC_Dashboard.md)
+-   [APNIC MyAPNIC Resource Manager](./doc/work/2018-06/APNIC_MyAPNIC_Resource_Manager.md)
+-   [APNIC MyAPNIC Voting](./doc/work/2018-06/APNIC_MyAPNIC_Voting.md)
+
+### Software Developer at Griffith University
+
+<small>2016 June to 2018 May</small>
+
+-   [Griffith Develop](./doc/work/2016-06/Griffith_Develop.md)
+-   [Griffith ExLNT](./doc/work/2016-06/Griffith_ExLNT.md)
+-   [Griffith Learn](./doc/work/2016-06/Griffith_Learn.md)
+
+### Software Developer at Griffith University
+
+<small>2014 March to 2016 May</small>
+
+-   [Griffith Experts](./doc/work/2014-03/Griffith_Experts.md)
+
+### Web Developer at Griffith University
+
+<small>2011 Nov to 2014 Feb</small>
+
+-   [Griffith MBA App](./doc/work/2011-11/Griffith_MBA_App.md)
+-   [Griffith Virtual Tour](./doc/work/2011-11/Griffith_Virtual_Tour.md)
