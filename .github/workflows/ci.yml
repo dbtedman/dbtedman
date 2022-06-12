@@ -11,7 +11,7 @@ env:
     CI: true
 
 jobs:
-    run:
+    ci:
         runs-on: "ubuntu-20.04"
 
         steps:
