@@ -30,7 +30,8 @@ Programming exercises to hone my programming skills through practice and repetit
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-accretion/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-accretion/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-accretion/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-accretion/actions/workflows/sast.yml)
-![language: go](https://img.shields.io/badge/language-go-blue.svg?style=for-the-badge)
+![languages: go and typescript](https://img.shields.io/badge/languages-go%20and%20typescript-blue.svg?style=for-the-badge)
+![framework: vue](https://img.shields.io/badge/framework-vue-blue.svg?style=for-the-badge)
 
 Manage internal technical documentation that is enriched with live data accreted from your environment.
 
