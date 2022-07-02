@@ -61,6 +61,10 @@ Platform for hosting reoccurring conference sites.
 
 Tool for managing the presentation upload approval workflow for events.
 
+### Deterge (soon)
+
+Tool for sanitising data files of sensitive information through substitution with fake information.
+
 ### [Extremity](https://github.com/dbtedman/kata-extremity)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-extremity/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-extremity/actions/workflows/ci.yml)
