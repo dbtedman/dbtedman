@@ -38,7 +38,11 @@ Programming exercises to hone my programming skills through practice and repetit
 
 Manage internal technical documentation that is enriched with live data accreted from your environment.
 
-### Amalgam (soon)
+### [Amalgam](https://github.com/dbtedman/kata-amalgam)
+
+[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-amalgam/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-amalgam/actions/workflows/ci.yml)
+[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-amalgam/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-amalgam/actions/workflows/sast.yml)
+[![MIT License](https://img.shields.io/github/license/dbtedman/kata-amalgam?color=orange&style=for-the-badge)](https://github.com/dbtedman/kata-amalgam/blob/main/LICENSE.md)
 
 Platform for defining recipes to repeatable operations.
 
@@ -72,7 +76,11 @@ Campus headquarters for your personal learning platform.
 
 Platform for hosting reoccurring conference sites.
 
-### Conveyance (soon)
+### [Conveyance](https://github.com/dbtedman/kata-conveyance)
+
+[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-conveyance/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-conveyance/actions/workflows/ci.yml)
+[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-conveyance/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-conveyance/actions/workflows/sast.yml)
+[![MIT License](https://img.shields.io/github/license/dbtedman/kata-conveyance?color=orange&style=for-the-badge)](https://github.com/dbtedman/kata-conveyance/blob/main/LICENSE.md)
 
 Tool for managing the presentation upload approval workflow for events.
 
@@ -119,7 +127,6 @@ Tool for marshalling data between systems.
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-respite/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-respite/actions/workflows/sast.yml)
-![languages: rust and typescript](https://img.shields.io/badge/languages-rust%20and%20typescript%20%28planned%29-lightgray.svg?style=for-the-badge)
 [![MIT License](https://img.shields.io/github/license/dbtedman/kata-respite?color=orange&style=for-the-badge)](https://github.com/dbtedman/kata-respite/blob/main/LICENSE.md)
 
 Providing respite by matching desired capacity to available talent.
