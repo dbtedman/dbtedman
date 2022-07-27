@@ -7,7 +7,6 @@ As a Security Focused Software Engineer, I am committed to participating in the 
 
 -   [Open Source](#open-source)
 -   [Code Kata](#code-kata)
--   [Work History](#work-history)
 
 ## Open Source
 
@@ -137,56 +136,3 @@ Platform for hosting reoccurring conference sites.
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-extremity/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-extremity/actions/workflows/sast.yml)
 
 Secure traffic flowing in and out of your WordPress site at its extremity.
-
-## Work History
-
-### Delivery Manager at APNIC
-
-<small>2021 Sep to Now</small>
-
--   [APNIC APRICOT 2022 Conference](./doc/work/2021-09/APNIC_APRICOT_2022_Conference.md)
--   [APNIC Product Roadmap](./doc/work/2021-09/APNIC_Product_Roadmap.md)
--   [APNIC Web Team](./doc/work/2021-09/APNIC_Web_Team.md)
-
-### Senior Full Stack Web Developer at APNIC
-
-<small>2019 Nov to 2021 Sep</small>
-
--   [APNIC 50 Conference](./doc/work/2019-11/APNIC_50_Conference.md)
--   [APNIC Full Stack Faction](./doc/work/2019-11/APNIC_Full_Stack_Faction.md)
--   [APNIC Help Centre](./doc/work/2019-11/APNIC_Help_Centre.md)
--   [APNIC Membership External API](./doc/work/2019-11/APNIC_Membership_External_API.md)
--   [APNIC MyAPNIC Dashboard v2](./doc/work/2019-11/APNIC_MyAPNIC_Dashboard_v2.md)
--   [APNIC MyAPNIC Voting Dashboard](./doc/work/2019-11/APNIC_MyAPNIC_Voting_Dashboard.md)
--   [APNIC WebOPS External API](./doc/work/2019-11/APNIC_WebOPS_External_API.md)
-
-### Full Stack Web Developer at APNIC
-
-<small>2018 June to 2019 Nov</small>
-
--   [APNIC Academy](./doc/work/2018-06/APNIC_Academy.md)
--   [APNIC Membership Application](./doc/work/2018-06/APNIC_Membership_Application.md)
--   [APNIC MyAPNIC Dashboard](./doc/work/2018-06/APNIC_MyAPNIC_Dashboard.md)
--   [APNIC MyAPNIC Resource Manager](./doc/work/2018-06/APNIC_MyAPNIC_Resource_Manager.md)
--   [APNIC MyAPNIC Voting](./doc/work/2018-06/APNIC_MyAPNIC_Voting.md)
-
-### Software Developer at Griffith University
-
-<small>2016 June to 2018 May</small>
-
--   [Griffith Develop](./doc/work/2016-06/Griffith_Develop.md)
--   [Griffith ExLNT](./doc/work/2016-06/Griffith_ExLNT.md)
--   [Griffith Learn](./doc/work/2016-06/Griffith_Learn.md)
-
-### Software Developer at Griffith University
-
-<small>2014 March to 2016 May</small>
-
--   [Griffith Experts](./doc/work/2014-03/Griffith_Experts.md)
-
-### Web Developer at Griffith University
-
-<small>2011 Nov to 2014 Feb</small>
-
--   [Griffith MBA App](./doc/work/2011-11/Griffith_MBA_App.md)
--   [Griffith Virtual Tour](./doc/work/2011-11/Griffith_Virtual_Tour.md)
