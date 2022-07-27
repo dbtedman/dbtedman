@@ -5,8 +5,14 @@
 
 As a Security Focused Software Engineer, I am committed to participating in the development of a secure and accessible web.
 
+-   [Contact](#contact)
 -   [Open Source](#open-source)
 -   [Code Kata](#code-kata)
+
+## Contact
+
+-   Email: [dbtedman@gmail.com](mailto:dbtedman@gmail.com)
+-   LinkedIn: [https://www.linkedin.com/in/dbtedman](https://www.linkedin.com/in/dbtedman)
 
 ## Open Source
 
