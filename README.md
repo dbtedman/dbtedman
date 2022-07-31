@@ -127,6 +127,8 @@ Platform for hosting reoccurring conference sites.
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-extremity/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-extremity/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-extremity/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-extremity/actions/workflows/sast.yml)
 
+Secure traffic flowing in and out of your WordPress site at its extremity.
+
 ### Python
 
 #### [Deterge](https://github.com/dbtedman/kata-deterge)
@@ -142,5 +144,3 @@ Tool for sanitising data files of sensitive information through substitution wit
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-marshal/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-marshal/actions/workflows/sast.yml)
 
 Tool for marshalling data between systems.
-
-Secure traffic flowing in and out of your WordPress site at its extremity.
