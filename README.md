@@ -35,7 +35,7 @@ Programming exercises to hone my programming skills through practice and repetit
 
 ### Go
 
-Projects written in Go, fronted with TypeScript clients using React or Vue.
+Projects written primarily in Go, fronted with TypeScript clients using React or Vue.
 
 #### [Accretion](https://github.com/dbtedman/kata-accretion)
 
@@ -81,7 +81,7 @@ Discover projects within a hosted git platform that contain an OpenAPI Specifica
 
 ### JVM
 
-Projects built on top of the JVM, written in Kotlin and Java, using the Spring framework, fronted with TypeScript clients using React or Vue.
+Projects built on top of the JVM, written primarily in Kotlin and Java, using the Spring framework, fronted with TypeScript clients using React or Vue.
 
 #### [Amalgam](https://github.com/dbtedman/kata-amalgam)
 
@@ -120,7 +120,7 @@ Providing respite by matching desired capacity to available talent.
 
 ### PHP
 
-Projects written in PHP, using Laravel framework or WordPress platform.
+Projects written primarily in PHP, using Laravel framework or WordPress platform.
 
 #### [Bloggy](https://github.com/dbtedman/kata-bloggy)
 
@@ -142,3 +142,14 @@ Platform for hosting reoccurring conference sites.
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-extremity/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-extremity/actions/workflows/sast.yml)
 
 Secure traffic flowing in and out of your WordPress site at its extremity.
+
+### TypeScript
+
+Projects written primarily in TypeScript.
+
+#### [Blueprint](https://github.com/dbtedman/kata-blueprint)
+
+[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-blueprint/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-blueprint/actions/workflows/ci.yml)
+[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-blueprint/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-blueprint/actions/workflows/sast.yml)
+
+A web component library implementation of a design system.
