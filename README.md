@@ -41,6 +41,7 @@ Projects written primarily in Go, fronted with TypeScript clients using React or
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-accretion/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-accretion/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-accretion/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-accretion/actions/workflows/sast.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-accretion?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-accretion)
 
 Manage internal technical documentation that is enriched with live data accreted from your environment.
 
@@ -62,6 +63,7 @@ Tool for marshalling data between systems.
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrabbled/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-scrabbled/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrabbled/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-scrabbled/actions/workflows/sast.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-scrabbled?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-scrabbled)
 
 A solving program that suggests words using your current letters and the layout of the board.
 
@@ -69,6 +71,7 @@ A solving program that suggests words using your current letters and the layout 
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrutinize/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-scrutinize/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrutinize/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-scrutinize/actions/workflows/sast.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-scrutinize?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-scrutinize)
 
 Tool for developers to scrutinise web application information architectures.
 
@@ -76,6 +79,7 @@ Tool for developers to scrutinise web application information architectures.
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-spectacle/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-spectacle/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-spectacle/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-spectacle/actions/workflows/sast.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-spectacle?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-spectacle)
 
 Discover projects within a hosted git platform that contain an OpenAPI Specifications so that an index can be generated.
 
