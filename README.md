@@ -49,6 +49,7 @@ Manage internal technical documentation that is enriched with live data accreted
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-deterge/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-deterge/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-deterge/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-deterge/actions/workflows/sast.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-deterge?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-deterge)
 
 Tool for sanitising data files of sensitive information through substitution with fake information.
 
@@ -56,6 +57,7 @@ Tool for sanitising data files of sensitive information through substitution wit
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-marshal/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-marshal/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-marshal/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-marshal/actions/workflows/sast.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-marshal?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-marshal)
 
 Tool for marshalling data between systems.
 
