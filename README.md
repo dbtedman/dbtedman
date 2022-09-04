@@ -106,6 +106,7 @@ Campus headquarters for your personal learning platform.
 #### [Conveyance](https://github.com/dbtedman/kata-conveyance)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-conveyance/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-conveyance/actions/workflows/ci.yml)
+[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-conveyance?token=NXIETNY61E&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-conveyance)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-conveyance/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-conveyance/actions/workflows/sast.yml)
 
 Tool for managing the presentation upload approval workflow for events.
