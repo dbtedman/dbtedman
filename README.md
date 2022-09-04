@@ -99,6 +99,7 @@ Platform for defining recipes to repeatable operations.
 #### [Campus](https://github.com/dbtedman/kata-campus)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-campus/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-campus/actions/workflows/ci.yml)
+[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-campus?token=GHLHFXN3KR&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-campus)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-campus/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-campus/actions/workflows/sast.yml)
 
 Campus headquarters for your personal learning platform.
