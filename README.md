@@ -65,6 +65,7 @@ Tool for marshalling data between systems.
 #### [Scrabbled](https://github.com/dbtedman/kata-scrabbled)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrabbled/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-scrabbled/actions/workflows/ci.yml)
+[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-scrabbled?token=JR19FEWWAL&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-scrabbled)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrabbled/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-scrabbled/actions/workflows/sast.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-scrabbled?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-scrabbled)
 
