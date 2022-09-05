@@ -76,10 +76,10 @@ A solving program that suggests words using your current letters and the layout 
 
 #### [Scrutinise](https://github.com/dbtedman/kata-scrutinise)
 
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrutinize/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-scrutinize/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-scrutinize?token=1QNKHWK542&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-scrutinize)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrutinize/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-scrutinize/actions/workflows/sast.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-scrutinize?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-scrutinize)
+[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrutinise/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-scrutinise/actions/workflows/ci.yml)
+[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-scrutinise?token=1QNKHWK542&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-scrutinise)
+[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrutinise/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-scrutinise/actions/workflows/sast.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-scrutinise?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-scrutinise)
 
 Tool for developers to scrutinise web application information architectures.
 
