@@ -59,6 +59,7 @@ Tool for sanitising data files of sensitive information through substitution wit
 #### [Marshal](https://github.com/dbtedman/kata-marshal)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-marshal/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-marshal/actions/workflows/ci.yml)
+[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-marshal?token=UKMP4XUMKE&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-marshal)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-marshal/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-marshal/actions/workflows/sast.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-marshal?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-marshal)
 
