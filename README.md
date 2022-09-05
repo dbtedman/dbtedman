@@ -86,6 +86,7 @@ Tool for developers to scrutinise web application information architectures.
 #### [Spectacle](https://github.com/dbtedman/kata-spectacle)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-spectacle/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-spectacle/actions/workflows/ci.yml)
+[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-spectacle?token=9Y00KKFVYF&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-spectacle)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-spectacle/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-spectacle/actions/workflows/sast.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-spectacle?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-spectacle)
 
