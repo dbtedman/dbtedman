@@ -141,6 +141,7 @@ Projects written primarily in PHP, using Laravel framework or WordPress platform
 #### [Bloggy](https://github.com/dbtedman/kata-bloggy)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-bloggy/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-bloggy/actions/workflows/ci.yml)
+[![Test Code Coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-bloggy?token=QO81TRBZOE&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-bloggy)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-bloggy/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-bloggy/actions/workflows/sast.yml)
 
 Demonstration codebase for hosting a WordPress site.
