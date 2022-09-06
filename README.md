@@ -149,6 +149,7 @@ Demonstration codebase for hosting a WordPress site.
 #### [Congress](https://github.com/dbtedman/kata-congress)
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-congress/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-congress/actions/workflows/ci.yml)
+[![Test Code Coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-congress?token=69SD4VX8W3&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-congress)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-congress/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-congress/actions/workflows/sast.yml)
 
 Platform for hosting reoccurring conference sites.
