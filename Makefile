@@ -14,3 +14,7 @@ lint:
 .PHONY: format
 format:
 	@pnpm run format
+
+.PHONY: upgrade
+upgrade:
+	@pnpm dlx npm-check-updates -u && pnpm upgrade
