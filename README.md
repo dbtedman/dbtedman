@@ -171,5 +171,6 @@ Projects written primarily in TypeScript.
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-blueprint/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-blueprint/actions/workflows/ci.yml)
 [![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-blueprint?token=CJJHTXXIRF&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-blueprint)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-blueprint/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-blueprint/actions/workflows/sast.yml)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/dbtedman/kata-blueprint/badge?style=for-the-badge)](https://api.securityscorecards.dev/projects/github.com/dbtedman/kata-blueprint)
 
 A web component library implementation of a design system.
