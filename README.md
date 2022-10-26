@@ -1,4 +1,4 @@
-# [G'day, Mate! 🇦🇺](https://en.wikipedia.org/wiki/Australian_English)
+# Hello, GitHub!
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/dbtedman/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/dbtedman/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/dbtedman/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/dbtedman/actions/workflows/sast.yml)
@@ -7,6 +7,7 @@ As a Security Focused Software Engineer, I am committed to participating in the 
 
 -   [Contact](#contact)
 -   [Open Source](#open-source)
+-   [Day Job](#day-job)
 -   [Code Kata](#code-kata)
 
 ## Contact
@@ -28,149 +29,14 @@ I believe in sharing my knowledge and expertise with the wider development commu
 
 A PostCSS plugin that is used to wrap css styles with a css selector to constrain their affect on parent elements in a page
 
+## Day Job
+
+I currently work as the Web Team Delivery Manager at [APNIC](https://www.apnic.net), where I have the privilege of leading a development team in pursuit of the organisations vision for ["A global, open, stable, and secure Internet"](https://www.apnic.net/about-apnic/organization/vision-mission-objectives/).
+
+If that sounds like something you might be interested in, see the [APNIC Careers](https://www.apnic.net/about-apnic/employment/) page to learn more.
+
 ## Code Kata
 
 Programming exercises to hone my programming skills through practice and repetition.
 
-> ⚠️ The following are in various stages of implementation.
-
-### Go
-
-Projects written primarily in Go, fronted with TypeScript clients using React or Vue.
-
-#### [Accretion](https://github.com/dbtedman/kata-accretion)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-accretion/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-accretion/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-accretion?token=QEYJ9E3Z6Z&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-accretion)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-accretion/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-accretion/actions/workflows/sast.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-accretion?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-accretion)
-
-Manage internal technical documentation that is enriched with live data accreted from your environment.
-
-#### [Deterge](https://github.com/dbtedman/kata-deterge)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-deterge/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-deterge/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-deterge?token=IX7XT9T25V&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-deterge)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-deterge/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-deterge/actions/workflows/sast.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-deterge?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-deterge)
-
-Tool for sanitising data files of sensitive information through substitution with fake information.
-
-#### [Marshal](https://github.com/dbtedman/kata-marshal)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-marshal/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-marshal/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-marshal?token=UKMP4XUMKE&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-marshal)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-marshal/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-marshal/actions/workflows/sast.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-marshal?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-marshal)
-
-Tool for marshalling data between systems.
-
-#### [Scrabbled](https://github.com/dbtedman/kata-scrabbled)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrabbled/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-scrabbled/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-scrabbled?token=JR19FEWWAL&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-scrabbled)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrabbled/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-scrabbled/actions/workflows/sast.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-scrabbled?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-scrabbled)
-
-A solving program that suggests words using your current letters and the layout of the board.
-
-#### [Scrutinise](https://github.com/dbtedman/kata-scrutinise)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrutinise/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-scrutinise/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-scrutinise?token=1QNKHWK542&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-scrutinise)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-scrutinise/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-scrutinise/actions/workflows/sast.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-scrutinise?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-scrutinise)
-
-Tool for developers to scrutinise web application information architectures.
-
-#### [Spectacle](https://github.com/dbtedman/kata-spectacle)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-spectacle/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-spectacle/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-spectacle?token=9Y00KKFVYF&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-spectacle)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-spectacle/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-spectacle/actions/workflows/sast.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-spectacle?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-spectacle)
-
-Discover projects within a hosted git platform that contain an OpenAPI Specifications so that an index can be generated.
-
-### JVM
-
-Projects built on top of the JVM, written primarily in Kotlin and Java, using the Spring framework, fronted with TypeScript clients using React or Vue.
-
-#### [Amalgam](https://github.com/dbtedman/kata-amalgam)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-amalgam/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-amalgam/actions/workflows/ci.yml)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-amalgam/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-amalgam/actions/workflows/sast.yml)
-
-Platform for defining recipes to repeatable operations.
-
-#### [Campus](https://github.com/dbtedman/kata-campus)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-campus/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-campus/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-campus?token=GHLHFXN3KR&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-campus)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-campus/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-campus/actions/workflows/sast.yml)
-
-Campus headquarters for your personal learning platform.
-
-#### [Conveyance](https://github.com/dbtedman/kata-conveyance)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-conveyance/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-conveyance/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-conveyance?token=NXIETNY61E&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-conveyance)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-conveyance/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-conveyance/actions/workflows/sast.yml)
-
-Tool for managing the presentation upload approval workflow for events.
-
-#### [Hoist](https://github.com/dbtedman/kata-hoist)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-hoist/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-hoist/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-hoist?token=AKZA1RANOK&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-hoist)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-hoist/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-hoist/actions/workflows/sast.yml)
-
-Lift simulation.
-
-#### [Respite](https://github.com/dbtedman/kata-respite)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-respite/actions/workflows/ci.yml)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-respite/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-respite/actions/workflows/sast.yml)
-
-Providing respite by matching desired capacity to available talent.
-
-### PHP
-
-Projects written primarily in PHP, using Laravel framework or WordPress platform.
-
-#### [Bloggy](https://github.com/dbtedman/kata-bloggy)
-
-[![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-bloggy/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-bloggy/actions/workflows/ci.yml)
-[![Test Code Coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-bloggy?token=QO81TRBZOE&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-bloggy)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-bloggy/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-bloggy/actions/workflows/sast.yml)
-
-Demonstration codebase for hosting a WordPress site.
-
-#### [Congress](https://github.com/dbtedman/kata-congress)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-congress/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-congress/actions/workflows/ci.yml)
-[![Test Code Coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-congress?token=69SD4VX8W3&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-congress)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-congress/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-congress/actions/workflows/sast.yml)
-
-Platform for hosting reoccurring conference sites.
-
-#### [Extremity](https://github.com/dbtedman/kata-extremity)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-extremity/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-extremity/actions/workflows/ci.yml)
-[![Test Code Coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-extremity?token=HER8FGNFF8&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-extremity)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-extremity/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-extremity/actions/workflows/sast.yml)
-
-Secure traffic flowing in and out of your WordPress site at its extremity.
-
-### TypeScript
-
-Projects written primarily in TypeScript.
-
-#### [Blueprint](https://github.com/dbtedman/kata-blueprint)
-
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-blueprint/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-blueprint/actions/workflows/ci.yml)
-[![test code coverage](https://img.shields.io/codecov/c/gh/dbtedman/kata-blueprint?token=CJJHTXXIRF&style=for-the-badge)](https://codecov.io/gh/dbtedman/kata-blueprint)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-blueprint/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-blueprint/actions/workflows/sast.yml)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/dbtedman/kata-blueprint/badge?style=for-the-badge)](https://api.securityscorecards.dev/projects/github.com/dbtedman/kata-blueprint)
-
-A web component library implementation of a design system.
+> ⚠️ I am currently revising how I organise my Code Kata, check back again here soon.
