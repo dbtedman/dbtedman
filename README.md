@@ -36,10 +36,19 @@ If that sounds like something you might be interested in, see the [APNIC Careers
 
 ## Code Kata
 
-Programming exercises to hone my programming skills through practice and repetition.
-
-### [Kata (go)](https://github.com/dbtedman/kata-go)
+### [Kata (Go)](https://github.com/dbtedman/kata-go)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-go/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-go/actions/workflows/ci.yml?query=branch%3Amain)
 [![SAST GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-go/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-go/actions/workflows/sast.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/kata-go?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/kata-go)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/dbtedman/kata-go/badge?style=for-the-badge)](https://api.securityscorecards.dev/projects/github.com/dbtedman/kata-go)
+
+Programming exercises written primarily in Go, to hone my programming skills through practice and repetition.
+
+### [Kata (TypeScript)](https://github.com/dbtedman/kata-ts)
+
+[![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-ts/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-ts/actions/workflows/ci.yml?query=branch%3Amain)
+[![SAST GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-ts/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-ts/actions/workflows/sast.yml)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/dbtedman/kata-ts/badge?style=for-the-badge)](https://api.securityscorecards.dev/projects/github.com/dbtedman/kata-ts)
+
+Programming exercises written primarily in TypeScript, to hone my programming skills through practice and repetition.
