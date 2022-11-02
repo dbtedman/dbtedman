@@ -44,6 +44,13 @@ If that sounds like something you might be interested in, see the [APNIC Careers
 
 Programming exercises written primarily in Go, to hone my programming skills through practice and repetition.
 
+### [Kata (Kotlin)](https://github.com/dbtedman/kata-kotlin)
+
+[![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-kotlin/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-kotlin/actions/workflows/ci.yml?query=branch%3Amain)
+[![SAST GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-kotlin/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-kotlin/actions/workflows/sast.yml)
+
+Programming exercises written primarily in Kotlin, to hone my programming skills through practice and repetition.
+
 ### [Kata (PHP)](https://github.com/dbtedman/kata-php)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/kata-php/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-php/actions/workflows/ci.yml?query=branch%3Amain)
