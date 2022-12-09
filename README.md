@@ -18,6 +18,12 @@ As a Security Focused Software Engineer, I am committed to participating in the 
 
 I believe in sharing my knowledge and expertise with the wider development community, and that open source software is a key method to achieve this goal.
 
+### [Accretion](https://github.com/dbtedman/accretion)
+
+[![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/accretion/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/accretion/actions/workflows/ci.yml?query=branch%3Amain)
+
+Manage internal technical documentation that is enriched with live data accreted from your environment.
+
 ### [PostCSS Prefix Wrap](https://github.com/dbtedman/postcss-prefixwrap)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/postcss-prefixwrap/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/ci.yml?query=branch%3Amain)
