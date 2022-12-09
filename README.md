@@ -21,6 +21,7 @@ I believe in sharing my knowledge and expertise with the wider development commu
 ### [Accretion](https://github.com/dbtedman/accretion)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/accretion/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/accretion/actions/workflows/ci.yml?query=branch%3Amain)
+[![SAST GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/accretion/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/accretion/actions/workflows/sast.yml)
 
 Manage internal technical documentation that is enriched with live data accreted from your environment.
 
