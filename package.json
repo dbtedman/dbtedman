@@ -4,7 +4,7 @@
     "lint": "sort-package-json --check && prettier . --check"
   },
   "devDependencies": {
-    "prettier": "2.7.1",
-    "sort-package-json": "2.0.0"
+    "prettier": "2.8.1",
+    "sort-package-json": "2.1.0"
   }
 }
