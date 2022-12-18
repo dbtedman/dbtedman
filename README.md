@@ -1,7 +1,7 @@
 # Hello, GitHub!
 
-[![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/dbtedman/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/dbtedman/actions/workflows/ci.yml)
-[![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/dbtedman/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/dbtedman/actions/workflows/sast.yml)
+[![ci workflow status](https://img.shields.io/github/actions/workflow/status/dbtedman/dbtedman/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/dbtedman/actions/workflows/ci.yml)
+[![sast workflow status](https://img.shields.io/github/actions/workflow/status/dbtedman/dbtedman/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/dbtedman/actions/workflows/sast.yml)
 
 As a Security Focused Software Engineer, I am committed to participating in the development of a secure and accessible web.
 
@@ -20,16 +20,16 @@ I believe in sharing my knowledge and expertise with the wider development commu
 
 ### [Accretion](https://github.com/dbtedman/accretion)
 
-[![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/accretion/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/accretion/actions/workflows/ci.yml?query=branch%3Amain)
-[![SAST GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/accretion/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/accretion/actions/workflows/sast.yml)
+[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/accretion/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/accretion/actions/workflows/ci.yml?query=branch%3Amain)
+[![SAST GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/accretion/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/accretion/actions/workflows/sast.yml)
 
 Manage internal technical documentation that is enriched with live data accreted from your environment.
 
 ### [PostCSS Prefix Wrap](https://github.com/dbtedman/postcss-prefixwrap)
 
-[![CI GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/postcss-prefixwrap/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/ci.yml?query=branch%3Amain)
-[![SAST GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/postcss-prefixwrap/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/sast.yml)
-[![Release GitHub Pipeline](https://img.shields.io/github/workflow/status/dbtedman/postcss-prefixwrap/release?style=for-the-badge&logo=github&label=release)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/release.yml)
+[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/postcss-prefixwrap/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/ci.yml?query=branch%3Amain)
+[![SAST GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/postcss-prefixwrap/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/sast.yml)
+[![Release GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/postcss-prefixwrap/release.yml?branch=main&event=release&style=for-the-badge&logo=github&label=release)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/release.yml)
 [![NPM Downloads Per Week](https://img.shields.io/npm/dw/postcss-prefixwrap?color=blue&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/postcss-prefixwrap)
 
 A PostCSS plugin that is used to wrap css styles with a css selector to constrain their affect on parent elements in a page
