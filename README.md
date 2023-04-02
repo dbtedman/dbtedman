@@ -47,9 +47,5 @@ Hugo source code for [https://tedman.dev](https://tedman.dev).
 
 ## Day Job
 
-I currently work as the Web Team Delivery Manager at [APNIC](https://www.apnic.net), where I have the privilege of
-leading a development team in pursuit of the organisations vision
+I currently work as a Lead Full Stack Web Developer at [APNIC](https://www.apnic.net), where I have the privilege of contributing to the organisations vision
 for ["A global, open, stable, and secure Internet"](https://www.apnic.net/about-apnic/organization/vision-mission-objectives/).
-
-If that sounds like something you might be interested in, see
-the [APNIC Careers](https://www.apnic.net/about-apnic/employment/) page to learn more.
