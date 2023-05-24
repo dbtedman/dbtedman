@@ -7,14 +7,19 @@ As a Security Focused Software Engineer, I am committed to participating in the 
 web.
 
 -   [Contact](#contact)
--   [Open Source](#open-source)
 -   [Day Job](#day-job)
+-   [Open Source](#open-source)
 
 ## Contact
 
--   Email: [dbtedman@gmail.com](mailto:dbtedman@gmail.com)
--   LinkedIn: [https://www.linkedin.com/in/dbtedman](https://www.linkedin.com/in/dbtedman)
--   Blog: [https://tedman.dev/posts/](https://tedman.dev/posts/)
+-   [Blog](https://tedman.dev/posts/)
+-   [Email](mailto:dbtedman@gmail.com)
+-   [LinkedIn](https://www.linkedin.com/in/dbtedman)
+
+## Day Job
+
+I currently work as a Lead Full Stack Web Developer at [APNIC](https://www.apnic.net), where I have the privilege of contributing to the organisations vision
+for ["A global, open, stable, and secure Internet"](https://www.apnic.net/about-apnic/organization/vision-mission-objectives/).
 
 ## Open Source
 
@@ -47,19 +52,5 @@ page
 [![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/scrutinise/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/scrutinise/actions/workflows/ci.yml?query=branch%3Amain)
 [![SAST GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/scrutinise/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/scrutinise/actions/workflows/sast.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/scrutinise?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/scrutinise)
-[![GitHub all releases](https://img.shields.io/github/downloads/dbtedman/scrutinise/total?style=for-the-badge&logo=github)](https://github.com/dbtedman/scrutinise/releases)
-[![Docker Pulls](https://img.shields.io/docker/pulls/dbtedman/scrutinise?sort=semver&style=for-the-badge&logo=docker)](https://hub.docker.com/r/dbtedman/scrutinise)
 
 Tool to scrutinise website development security.
-
-### [Tedman.dev](https://github.com/dbtedman/tedman.dev)
-
-Hugo source code for [https://tedman.dev](https://tedman.dev).
-
-[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/tedman.dev/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/tedman.dev/actions/workflows/ci.yml)
-[![Deploy GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/tedman.dev/deploy.yml?branch=main&style=for-the-badge&logo=github&label=deploy)](https://github.com/dbtedman/tedman.dev/actions/workflows/deploy.yml)
-
-## Day Job
-
-I currently work as a Lead Full Stack Web Developer at [APNIC](https://www.apnic.net), where I have the privilege of contributing to the organisations vision
-for ["A global, open, stable, and secure Internet"](https://www.apnic.net/about-apnic/organization/vision-mission-objectives/).
