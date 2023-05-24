@@ -6,15 +6,8 @@
 As a Security Focused Software Engineer, I am committed to participating in the development of a secure and accessible
 web.
 
--   [Contact](#contact)
 -   [Day Job](#day-job)
 -   [Open Source](#open-source)
-
-## Contact
-
--   [Blog](https://tedman.dev/posts/)
--   [Email](mailto:dbtedman@gmail.com)
--   [LinkedIn](https://www.linkedin.com/in/dbtedman)
 
 ## Day Job
 
