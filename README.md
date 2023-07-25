@@ -43,6 +43,8 @@ Manage internal technical documentation that is enriched with live data accreted
 ### [Conveyance](https://github.com/dbtedman/conveyance)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/conveyance/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/conveyance/actions/workflows/ci.yml?query=branch%3Amain)
+[![SAST GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/conveyance/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/conveyance/actions/workflows/sast.yml)
+[![Latest Release](https://img.shields.io/github/v/release/dbtedman/conveyance?style=for-the-badge)](https://github.com/dbtedman/conveyance/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/conveyance?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/conveyance)
 
 > ⚠️ WARNING! This project is in early development, and is not ready for production use.
@@ -53,6 +55,7 @@ Provide security by proxying requests to legacy applications.
 
 [![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/scrutinise/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/scrutinise/actions/workflows/ci.yml?query=branch%3Amain)
 [![SAST GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/scrutinise/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/scrutinise/actions/workflows/sast.yml)
+[![Latest Release](https://img.shields.io/github/v/release/dbtedman/scrutinise?style=for-the-badge)](https://github.com/dbtedman/scrutinise/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/scrutinise?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/scrutinise)
 
 > ⚠️ WARNING! This project is in early development, and is not ready for production use.
