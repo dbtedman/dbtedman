@@ -1,8 +1,5 @@
 # Hello, GitHub!
 
-[![ci workflow status](https://img.shields.io/github/actions/workflow/status/dbtedman/dbtedman/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/dbtedman/actions/workflows/ci.yml)
-[![sast workflow status](https://img.shields.io/github/actions/workflow/status/dbtedman/dbtedman/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/dbtedman/actions/workflows/sast.yml)
-
 As a Security Focused Software Engineer, I am committed to participating in the development of a secure and accessible
 web.
 
@@ -19,6 +16,15 @@ for ["A global, open, stable, and secure Internet"](https://www.apnic.net/about-
 I believe in sharing my knowledge and expertise with the wider development community, and that open source software is a
 key method to achieve this goal.
 
+### [Conveyance](https://github.com/dbtedman/conveyance)
+
+[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/conveyance/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/conveyance/actions/workflows/ci.yml?query=branch%3Amain)
+[![SAST GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/conveyance/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/conveyance/actions/workflows/sast.yml)
+[![Latest Release](https://img.shields.io/github/v/release/dbtedman/conveyance?style=for-the-badge&logo=github&color=red)](https://github.com/dbtedman/conveyance/releases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/conveyance?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/conveyance)
+
+Provide security by proxying requests to legacy applications.
+
 ### [PostCSS Prefix Wrap](https://github.com/dbtedman/postcss-prefixwrap)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/postcss-prefixwrap/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/ci.yml?query=branch%3Amain)
@@ -28,37 +34,3 @@ key method to achieve this goal.
 
 A PostCSS plugin that is used to wrap css styles with a css selector to constrain their affect on parent elements in a
 page.
-
-<hr>
-
-### [Accretion](https://github.com/dbtedman/accretion)
-
-[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/accretion/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/accretion/actions/workflows/ci.yml?query=branch%3Amain)
-[![SAST GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/accretion/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/accretion/actions/workflows/sast.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/accretion?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/accretion)
-
-> ⚠️ WARNING! This project is in early development, and is not ready for production use.
-
-Manage internal technical documentation that is enriched with live data accreted from your environment.
-
-### [Conveyance](https://github.com/dbtedman/conveyance)
-
-[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/conveyance/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/conveyance/actions/workflows/ci.yml?query=branch%3Amain)
-[![SAST GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/conveyance/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/conveyance/actions/workflows/sast.yml)
-[![Latest Release](https://img.shields.io/github/v/release/dbtedman/conveyance?style=for-the-badge&logo=github&color=red)](https://github.com/dbtedman/conveyance/releases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/conveyance?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/conveyance)
-
-> ⚠️ WARNING! This project is in early development, and is not ready for production use.
-
-Provide security by proxying requests to legacy applications.
-
-### [Scrutinise](https://github.com/dbtedman/scrutinise)
-
-[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/scrutinise/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/scrutinise/actions/workflows/ci.yml?query=branch%3Amain)
-[![SAST GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/scrutinise/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/scrutinise/actions/workflows/sast.yml)
-[![Latest Release](https://img.shields.io/github/v/release/dbtedman/scrutinise?style=for-the-badge&logo=github&color=red)](https://github.com/dbtedman/scrutinise/releases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/scrutinise?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/scrutinise)
-
-> ⚠️ WARNING! This project is in early development, and is not ready for production use.
-
-Tool to scrutinise website development security.
