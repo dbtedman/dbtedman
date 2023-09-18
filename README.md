@@ -16,14 +16,9 @@ for ["A global, open, stable, and secure Internet"](https://www.apnic.net/about-
 I believe in sharing my knowledge and expertise with the wider development community, and that open source software is a
 key method to achieve this goal.
 
-### [Conveyance](https://github.com/dbtedman/conveyance)
+### [Stop](https://github.com/dbtedman/stop)
 
-[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/conveyance/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/conveyance/actions/workflows/ci.yml?query=branch%3Amain)
-[![SAST GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/conveyance/sast.yml?branch=main&style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/conveyance/actions/workflows/sast.yml)
-[![Latest Release](https://img.shields.io/github/v/release/dbtedman/conveyance?style=for-the-badge&logo=github&color=red)](https://github.com/dbtedman/conveyance/releases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/conveyance?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/conveyance)
-
-Provide security by proxying requests to legacy applications.
+Go experiments monorepo.
 
 ### [PostCSS Prefix Wrap](https://github.com/dbtedman/postcss-prefixwrap)
 
