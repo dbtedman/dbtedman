@@ -16,14 +16,6 @@ for ["A global, open, stable, and secure Internet"](https://www.apnic.net/about-
 I believe in sharing my knowledge and expertise with the wider development community, and that open source software is a
 key method to achieve this goal.
 
-### [Stop](https://github.com/dbtedman/stop)
-
-[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/stop/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/stop/actions/workflows/ci.yml?query=branch%3Amain)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/stop?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/stop)
-[![Latest Release](https://img.shields.io/github/v/release/dbtedman/stop?style=for-the-badge&logo=github&color=blue)](https://github.com/dbtedman/stop/releases)
-
-Go experiments monorepo.
-
 ### [PostCSS Prefix Wrap](https://github.com/dbtedman/postcss-prefixwrap)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/postcss-prefixwrap/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/ci.yml?query=branch%3Amain)
@@ -33,3 +25,10 @@ Go experiments monorepo.
 
 A PostCSS plugin that is used to wrap css styles with a css selector to constrain their affect on parent elements in a
 page.
+
+### [Tedman.dev](https://github.com/dbtedman/tedman.dev)
+
+[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/tedman.dev/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/tedman.dev/actions/workflows/ci.yml)
+[![Deploy GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/tedman.dev/deploy.yml?branch=main&style=for-the-badge&logo=github&label=deploy)](https://github.com/dbtedman/tedman.dev/actions/workflows/deploy.yml)
+
+Hugo source code for [https://tedman.dev](https://tedman.dev).
