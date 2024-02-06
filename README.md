@@ -16,7 +16,7 @@ for ["A global, open, stable, and secure Internet"](https://www.apnic.net/about-
 I believe in sharing my knowledge and expertise with the wider development community, and that open source software is a
 key method to achieve this goal.
 
-## [Accretion](https://github.com/dbtedman/accretion)
+### [Accretion](https://github.com/dbtedman/accretion)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/accretion/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/accretion/actions/workflows/ci.yml?query=branch%3Amain)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/accretion?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/accretion)
