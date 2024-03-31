@@ -21,7 +21,7 @@ jobs:
         runs-on: "ubuntu-latest"
         steps:
             - uses: "actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11"
-            - uses: "pnpm/action-setup@a3252b78c470c02df07e9d59298aecedc3ccdd6d"
+            - uses: "pnpm/action-setup@2ab6dce4f53589dada480b94c53cb05a06b04673"
               with:
                   version: "latest"
             - uses: "actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8"
