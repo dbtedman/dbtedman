@@ -8,7 +8,7 @@ web.
 
 ## Day Job
 
-I currently work as a Lead Full Stack Web Developer at [APNIC](https://www.apnic.net), where I have the privilege of contributing to the organisations vision
+I currently work as a Lead Full Stack Web Developer at [APNIC](https://www.apnic.net) focused on Application Security, where I have the privilege of contributing to the organisations vision
 for ["A global, open, stable, and secure Internet"](https://www.apnic.net/about-apnic/organization/vision-mission-objectives/).
 
 ## Open Source

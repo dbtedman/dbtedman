@@ -3,6 +3,9 @@
 .PHONY: all
 all: install lint
 
+.PHONY: pre_commit
+pre_commit: lint
+
 .PHONY: install
 install:
 	@pnpm install
@@ -17,4 +20,4 @@ format:
 
 .PHONY: upgrade
 upgrade:
-	@pnpm dlx npm-check-updates -u && pnpm upgrade
+	@pnpm dlx npm-check-updates --interactive && pnpm upgrade

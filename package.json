@@ -1,10 +1,12 @@
 {
   "scripts": {
     "format": "sort-package-json && prettier . --write",
-    "lint": "sort-package-json --check && prettier . --check"
+    "lint": "sort-package-json --check && prettier . --check",
+    "prepare": "husky"
   },
   "devDependencies": {
+    "husky": "9.0.11",
     "prettier": "3.2.5",
-    "sort-package-json": "2.7.0"
+    "sort-package-json": "2.10.0"
   }
 }
