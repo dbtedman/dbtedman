@@ -16,15 +16,6 @@ for ["A global, open, stable, and secure Internet"](https://www.apnic.net/about-
 I believe in sharing my knowledge and expertise with the wider development community, and that open source software is a
 key method to achieve this goal.
 
-### [Accretion](https://github.com/dbtedman/accretion)
-
-> ⚠️ This project is still in early stages of development, please wait for a v1 before depending on it.
-
-[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/accretion/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/accretion/actions/workflows/ci.yml?query=branch%3Amain)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dbtedman/accretion?style=for-the-badge)](https://goreportcard.com/report/github.com/dbtedman/accretion)
-
-Manage internal technical documentation that is enriched with live data accreted from your environment.
-
 ### [PostCSS Prefix Wrap](https://github.com/dbtedman/postcss-prefixwrap)
 
 [![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/postcss-prefixwrap/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/postcss-prefixwrap/actions/workflows/ci.yml?query=branch%3Amain)
@@ -41,11 +32,3 @@ page.
 [![Deploy GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/tedman.dev/deploy.yml?branch=main&style=for-the-badge&logo=github&label=deploy)](https://github.com/dbtedman/tedman.dev/actions/workflows/deploy.yml)
 
 Hugo source code for [https://tedman.dev](https://tedman.dev).
-
-### [WordPress Choice Login](https://github.com/dbtedman/wp-choice-login)
-
-> ⚠️ This project is still in early stages of development, please wait for a v1 before depending on it.
-
-[![CI GitHub Pipeline](https://img.shields.io/github/actions/workflow/status/dbtedman/wp-choice-login/ci.yml?branch=main&style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/wp-choice-login/actions/workflows/ci.yml?query=branch%3Amain)
-
-Providing login choices for your WordPress site.
